@@ -1,0 +1,21 @@
+﻿Build started 11/20/2016 3:04:04 PM.
+     1>Project "C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\CS542_Project_00\CS542_Project_00.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp FileProcessor.cpp Network.cpp Router.cpp
+         Router.cpp
+         Network.cpp
+     1>c:\users\monst\desktop\link-state-routing-simulator-cs-542\cs542_project_00\network.cpp(211): warning C4018: '<' : signed/unsigned mismatch
+         FileProcessor.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\Debug\CS542_Project_00.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\Debug\CS542_Project_00.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\Debug\CS542_Project_00.lib" /MACHINE:X86 Debug\main.obj
+         Debug\FileProcessor.obj
+         Debug\Network.obj
+         Debug\Router.obj
+         CS542_Project_00.vcxproj -> C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\Debug\CS542_Project_00.exe
+     1>Done Building Project "C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\CS542_Project_00\CS542_Project_00.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.91

@@ -1,0 +1,8 @@
+﻿  main.cpp
+  FileProcessor.cpp
+  Network.cpp
+Network.cpp(217): warning C4018: '<' : signed/unsigned mismatch
+  Router.cpp
+  Generating code
+  Finished generating code
+  CS542_Project_00.vcxproj -> C:\Users\monst\Desktop\link-state-routing-simulator-cs-542\Release\CS542_Project_00.exe

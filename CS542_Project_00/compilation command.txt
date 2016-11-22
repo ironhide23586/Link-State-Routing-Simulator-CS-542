@@ -1,0 +1,1 @@
+cl /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp FileProcessor.cpp Network.cpp Router.cpp
